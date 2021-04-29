@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nino/static/css/main.01f74c40.chunk.css",
+    "main.js": "/nino/static/js/main.6c381284.chunk.js",
+    "main.js.map": "/nino/static/js/main.6c381284.chunk.js.map",
+    "runtime-main.js": "/nino/static/js/runtime-main.68be8059.js",
+    "runtime-main.js.map": "/nino/static/js/runtime-main.68be8059.js.map",
+    "static/js/2.c664eb7c.chunk.js": "/nino/static/js/2.c664eb7c.chunk.js",
+    "static/js/2.c664eb7c.chunk.js.map": "/nino/static/js/2.c664eb7c.chunk.js.map",
+    "index.html": "/nino/index.html",
+    "static/css/main.01f74c40.chunk.css.map": "/nino/static/css/main.01f74c40.chunk.css.map",
+    "static/js/2.c664eb7c.chunk.js.LICENSE.txt": "/nino/static/js/2.c664eb7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68be8059.js",
+    "static/js/2.c664eb7c.chunk.js",
+    "static/css/main.01f74c40.chunk.css",
+    "static/js/main.6c381284.chunk.js"
+  ]
+}
